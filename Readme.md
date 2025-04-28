@@ -1,21 +1,11 @@
-# Решения задач с помощю языков программирование
+# Solving problems using programming
 
 Кыргызский инженерно-строительный институт им. Ы. Исанова
 
-## о авторе
+## About me
 
-Я студент который решает некоторые задачи на python с помощю pydroid3 > jupyter,sympy,pandas.
+I am a student who solves some problems in python using pydroid3 > jupyter,sympy,pandas.
 
-И у меня эти работы простают(занимают место на моем телефоне без дела) и я решил их опубликовать.
+And these works are idle for me (they take up space on my phone with nothing to do) and I decided to publish them.
 
-## мои вопросы 
-
-Я учусь в кыргызстане и там или не думали или не волнует о последствии публикации таким образом.
-
-Ну тем более мне сказали можно.
-
-## мои решения
-
-Я буду публиковать работы на русском потому что я решаю задачи во время пары.
-
-Вы можете опубликовать свою работу в мою репозиторию
+You can post your work or an example to my repository.
